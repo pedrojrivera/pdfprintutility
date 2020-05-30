@@ -20,8 +20,8 @@ The utility will permit the user to:
 ### Available Downloads
 
 1. Windows Version  
-[Download](../../raw/gh-pages/downloads/PrintPDFUtility-win-x64.zip)
+[Download](https://github.com/pedrojrivera/pdfprintutility/raw/gh-pages/downloads/PrintPDFUtility-win-x64.zip)
 
 2. Mac Os Version  
-[Download](../../raw/gh-pages/downloads/PrintPDFUtility-mac-x64.zip)
+[Download](https://github.com/pedrojrivera/pdfprintutility/raw/gh-pages/downloads/PrintPDFUtility-mac-x64.zip)
 
