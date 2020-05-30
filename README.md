@@ -17,6 +17,9 @@ The utility will permit the user to:
 5. Rotate page 180 degrees
 6. Specify printer
 
-### Support or Contact
+### Available Downloads
+
+Windows 10 64 bit
+Mac OS
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
