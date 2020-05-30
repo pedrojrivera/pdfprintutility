@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: PDF Print Utility
 title: PDF Print Utility
+description: A simple PDF printing utilty for Windows, Mac, and Linux.
+show_downloads: true
