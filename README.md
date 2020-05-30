@@ -19,6 +19,9 @@ The utility will permit the user to:
 
 ### Available Downloads
 
-[Windows 10 64 bit](https://github.com/pedrojrivera/pdfprintutility/raw/gh-pages/downloads/PrintPDFUtility-win-x64.zip)
-[Mac OS](https://github.com/pedrojrivera/pdfprintutility/raw/gh-pages/downloads/PrintPDFUtility-mac-x64.zip)
+1. Download Windows Version  
+[Download](../../raw/gh-pages/downloads/PrintPDFUtility-win-x64.zip)
+
+2. Download Mac Os Version  
+[Download](../../raw/gh-pages/downloads/PrintPDFUtility-mac-x64.zip)
 
